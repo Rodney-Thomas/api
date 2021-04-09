@@ -5,5 +5,4 @@ function student() {
   if(person !== "John Doe") {
     alert('Welcome' + person)
   }
-  }
 }
