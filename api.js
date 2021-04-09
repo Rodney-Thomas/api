@@ -1,4 +1,9 @@
+let student = null;
+let date = Date();
+
 function main()
 {
-  let test = "test";
+  alert(Date());
 }
+
+main()
